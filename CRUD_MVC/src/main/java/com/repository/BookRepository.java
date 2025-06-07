@@ -12,11 +12,8 @@ import com.entity.Book;
 
 @Repository
 public class BookRepository {
-<<<<<<< HEAD
 // changes from prajakta
-=======
 // changes from sandeep 1
->>>>>>> refs/remotes/origin/branch_sandeep
 	@Autowired
 	HibernateTemplate hibernateTemplate;
 	
