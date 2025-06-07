@@ -12,7 +12,7 @@ import com.entity.Book;
 
 @Repository
 public class BookRepository {
-	
+	// test changes
 	@Autowired
 	HibernateTemplate hibernateTemplate;
 	
